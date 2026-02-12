@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on community
 - reach me through gmail
-- no phishing
-- iam proffessional ethical hacker
+
 
 <!---
 iamhacker-max/iamhacker-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
